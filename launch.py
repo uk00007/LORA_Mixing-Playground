@@ -230,6 +230,7 @@ def show_help():
         --use_cache      [true]
         --quantize       [none], 4bit, 8bit
         --dtype          [bf16], fp16, fp32
+        --tf32           [false]
     """
     )
 
